@@ -22,7 +22,7 @@ This project was developed as part of the **TDD Kata: Sweet Shop Management Syst
  🔙 Backend
 - **Spring Boot** (Java)
 - **JWT Authentication**
-- **MySQL** Database
+- **PostgreSQL** Database
 - **JPA/Hibernate**
 - **JUnit & Mockito** for testing
 
